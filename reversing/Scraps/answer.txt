@@ -1,0 +1,2 @@
+We find a string of hex characters that needs to be converted to ascii and reversed and converted to base64.
+394a7a4d6a4e54615139314d4d4a6a4d564233656a4e485a --> 9JzMjNTaQ91MMJjMVB3ejNHZ --> ZHNje3BVMjJMM19QaTNjMzJ9 --> dsc{pU22L3_Pi3c32}
