@@ -1,1 +1,0 @@
-Because of the clue of being able to read it with eyes closed, this indicated that it was braille. Using braille mapping on each individual frame of the gif, we got the flag dsc{d0-y0u-th1nk-h3-s4w-us7132}
