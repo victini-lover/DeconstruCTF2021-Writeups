@@ -1,1 +1,0 @@
-base64 gives coordinates. Take the first letter of each country to form the flag
