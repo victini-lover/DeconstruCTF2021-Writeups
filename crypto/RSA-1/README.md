@@ -1,6 +1,7 @@
+# RSA-1
 ![alt text](Capture.png)
 
-#Solution
+## Solution
 
 The given file(big_numbers.txt) contains value of c, n and e
 
