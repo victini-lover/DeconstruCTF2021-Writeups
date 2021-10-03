@@ -1,6 +1,7 @@
+# Pirates
 ![alt text](Capture.png)
 
-#Solution
+## Solution
 The given file is pcap file which will contain the packet capture of the private network.
 
 Using the Wireshark we can analyse the file.
